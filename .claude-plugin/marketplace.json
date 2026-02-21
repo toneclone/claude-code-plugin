@@ -1,0 +1,27 @@
+{
+  "name": "toneclone",
+  "owner": {
+    "name": "ToneClone",
+    "email": "hello@toneclone.ai"
+  },
+  "metadata": {
+    "description": "ToneClone plugins for Claude Code — generate content in your authentic voice"
+  },
+  "plugins": [
+    {
+      "name": "toneclone",
+      "source": {
+        "source": "github",
+        "repo": "toneclone/claude-code-plugin"
+      },
+      "description": "Generate content in your authentic voice using ToneClone — trained on your writing style",
+      "version": "1.0.0",
+      "author": {
+        "name": "ToneClone"
+      },
+      "homepage": "https://toneclone.ai",
+      "license": "MIT",
+      "keywords": ["writing", "voice", "style", "content", "persona"]
+    }
+  ]
+}
