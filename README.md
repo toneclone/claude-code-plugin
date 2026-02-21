@@ -5,7 +5,8 @@ Generate content in your authentic voice — directly from Claude Code, trained 
 ## Install
 
 ```
-/plugin install toneclone@github:toneclone/claude-code-plugin
+/plugin marketplace add toneclone/claude-code-plugin
+/plugin install toneclone@toneclone
 ```
 
 ## What It Does
