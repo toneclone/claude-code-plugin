@@ -1,0 +1,13 @@
+{
+  "name": "toneclone",
+  "description": "Generate content in your authentic voice using ToneClone — trained on your writing style",
+  "version": "1.0.0",
+  "author": {
+    "name": "ToneClone",
+    "url": "https://toneclone.ai"
+  },
+  "homepage": "https://toneclone.ai",
+  "repository": "https://github.com/toneclone/claude-code-plugin",
+  "license": "MIT",
+  "keywords": ["writing", "voice", "style", "toneclone", "content", "persona"]
+}
